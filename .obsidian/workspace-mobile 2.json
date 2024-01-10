@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "11b289935ac31f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1203c7847024cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3734ce0a7250bbbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5ccf172a3327c93",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f335968cb497a85",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2c2c9b5ed349436a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "987ca8d9859bbd35",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "017a763fc5be6c09",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "520b98ccc33feeda",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "757c62209cf9c244",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "beb85828d1af8b5a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "403bc8d32999bedc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3734ce0a7250bbbe",
+  "lastOpenFiles": [
+    "Files/전기자기학 임시.md",
+    "Files/Algorithm.md",
+    "Files/Homography.md",
+    "Files/SIFT.md",
+    "Files/Harris Corner Detector.md",
+    "Attachment/Harris Corner R.png",
+    "Attachment/Pasted image 20231213215110.png",
+    "Attachment/Pasted image 20231213215027.png",
+    "Attachment/Pasted image 20231213211004.png",
+    "Attachment/Pasted image 20231213215047.png",
+    "Files/R (Harris Corner Detector).md",
+    "Attachment/SIFT.png",
+    "Attachment/Pasted image 20231213215007.png",
+    "Files/Camera 좌표계 변환.md",
+    "Attachment/Pasted image 20231213180142.png",
+    "Files/RANSAC.md",
+    "Files/Intent.md",
+    "Files/View_Java.md",
+    "Files/Activity.md",
+    "Files/Multimedia Streaming.md",
+    "Files/WebRTC.md",
+    "Files/Toast.md",
+    "Files/Log.md",
+    "Files/UHDTV.md",
+    "Attachment/Pasted image 20231212173027.png",
+    "Files/MPEG-DASH.md",
+    "Files/File_Java.md",
+    "Files/App.md",
+    "Attachment/Pasted image 20231212174742.png",
+    "Files/Menu_Java.md",
+    "Files/Manifest.md",
+    "Files/Layout_Java.md",
+    "Files/Extra.md",
+    "Files/HLS.md",
+    "Files/Threads_Java.md",
+    "Files/Web Socket.md"
+  ]
+}

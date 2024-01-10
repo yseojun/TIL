@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "11b289935ac31f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1203c7847024cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3734ce0a7250bbbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seojun.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3126f4499abfa253",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5ccf172a3327c93",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f335968cb497a85",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2c2c9b5ed349436a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "987ca8d9859bbd35",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "017a763fc5be6c09",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "520b98ccc33feeda",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "757c62209cf9c244",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Seojun.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "beb85828d1af8b5a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Seojun.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "403bc8d32999bedc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Seojun.md"
+          }
+        }
+      },
+      {
+        "id": "5d34b8bbf35417e7",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {}
+        }
+      },
+      {
+        "id": "b7f597572596f011",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "juggl:Juggl global graph": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3126f4499abfa253",
+  "lastOpenFiles": [
+    "Seojun.md",
+    "Files/Principle of Locality.md",
+    "Files/Memory hierarchy.md",
+    "Files/Computer Architechture.md",
+    "Files/Performance.md",
+    "Files/Virtual memory.md",
+    "Files/TLB.md",
+    "Files/Cache.md",
+    "Files/Cache Coherence.md",
+    "Files/Snoopy protocol.md",
+    "Files/Memory Access Time.md",
+    "Files/Hit&Miss.md",
+    "Files/Miss penalty.md",
+    "Files/Pipe line.md",
+    "Files/Hazard.md",
+    "Files/Data hazard.md",
+    "Files/forwarding.md",
+    "Files/Control hazard.md",
+    "Files/Android Studio.md",
+    "Files/SLAM.md",
+    "Files/Language.md",
+    "Files/앱.md",
+    "README.md",
+    "Files/python.md",
+    "Files/Multimidea Service.md",
+    "Attachment/instruction Control data path.png",
+    "Files/알고리즘.md",
+    "Attachment/Write back forward Data path.png",
+    "Attachment/Pipe line data path.png",
+    "Attachment/Control & forwarding data path.png",
+    "Attachment/PC branch path.png",
+    "Attachment/Pasted image 20231205205948.png"
+  ]
+}
