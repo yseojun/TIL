@@ -3,7 +3,7 @@
 >[[Novel-View-Synthesis]] 분야에서, point cloud나 mesh, voxel과 같은 `3D Object` 자체를 렌더링 하는 거이 아닌, 3D Object를 바라본 `이미지` 들을 예측할 수 있는 모델을 만드는 것이 목표
 ---
 ### 개념
-[[<NeRF>개념]] : [link](<NeRF>개념.md)
+[[<NeRF>개념]] : [link](./<NeRF>개념.md)
 
 ### 단점
 - Training, Rendering 속도가 느림
