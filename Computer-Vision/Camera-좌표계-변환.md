@@ -8,7 +8,7 @@
 $$x=f\frac{X}{Z},y=f\frac{Y}{Z}$$
 2D 와 3D 좌표간 변환
 
-$$\begin{bmatrix}x'\\ y'\\ z'\end{bmatrix}=\begin{bmatrix}f&0&0&0\\ 0&f&0&0\\ 0&0&1&0 \end{bmatrix}\begin{bmatrix}x\\y\\z\\1\end{bmatrix}$$
+$$\begin{bmatrix}x'\\ y'\\ z'\end{bmatrix}=\begin{bmatrix}f&0&0&0\\ 0&f&0&0\\ 0&0&1&0 \end{bmatrix}\begin{bmatrix}x\\ y\\ z\\ 1\end{bmatrix}$$
 
 ### World Coords → Camera Coords
 다른 좌표계에서 바라본 같은 점을 각각 $P_c, P_w$라고 하고, 
