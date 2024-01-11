@@ -3,5 +3,9 @@
   "newFileFolderPath": "Files",
   "attachmentFolderPath": "for_obsidian/Attachment",
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "README",
+    "_for_obsidian/"
+  ]
 }

@@ -74,9 +74,6 @@ $$\displaystyle\sum_{i=1}^{10} t_i$$
 
 $$\log_b a$$
 
-### 미분 / differential
-$$\dv{Q}{t} = \dv{s}{t}$$
-
 ---
 ### 적분 / integral
 $$\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x$$

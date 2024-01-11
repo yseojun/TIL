@@ -8,65 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c0215bf53d1672f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Computer Vision/NeRF.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": false,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.011823036301840001,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "e262d527f5972df5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "36307a69aff621b2",
+            "id": "543bf9d82681e664",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/NeRF.md",
+                "file": "README.md.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1575b2d575f96f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Markdown 수식 문법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/NeRF.md",
+                "file": "README.md.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/NeRF.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/NeRF.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -181,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,21 +161,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36307a69aff621b2",
+  "active": "543bf9d82681e664",
   "lastOpenFiles": [
-    "Computer Vision/Computer Vision.md",
     "Computer Vision/NeRF.md",
     "README.md.md",
-    "Archive/Conda.md",
+    "Computer Vision/Novel View Synthesis.md",
+    "Computer Vision/행렬 변환.md",
+    "Computer Vision/<NeRF> 개념.md",
     "Archive/Markdown 수식 문법.md",
+    "Computer Vision/Camera 좌표계 변환.md",
+    "Computer Vision/Computer Vision.md",
+    "Computer Vision/Extrinsic Parameter.md",
+    "Now.md",
+    "무제 폴더",
+    "Archive/ffmpeg.md",
+    "_for_obsidian/Template/코드 Template.md",
+    "_for_obsidian/Attachment/행렬 변환.png",
+    "A.md",
+    "Home.md",
+    "Computer.md",
+    "Archive/Conda.md",
     "Archive/Conda-기본-명령어",
     "Archive/Conda 기본 명령어.md",
     "Archive/Conda-기본-명령어.md",
     "Archive/README.md.md",
-    "무제 폴더",
-    "Home.md",
-    "_for obsidian/Template/코드 Template.md",
-    "_for obsidian/Template/개념 Template.md",
+    "_for_obsidian/Template/개념 Template.md",
     "Conda/pip로 requirements.txt 설치하기.md",
     "Files/Cona.md",
     "Conda/pip로-requirements.txt-설치하기.md",
@@ -217,18 +195,10 @@
     "Archive",
     "무제 폴더/무제 파일.md",
     "Computer Vision",
-    "Welcome.md",
-    "_for obsidian/Template",
-    "_for obsidian/Attachment",
-    "_for obsidian",
-    "README.md",
-    "Now.md",
-    "Archive.md",
+    "_for_obsidian/Template",
+    "_for_obsidian/Attachment",
+    "_for_obsidian",
     "NeuLF.pdf",
-    "Files/캡스톤.md",
-    "Files/NeRF.md",
-    "Files/NeuLF 논문.md",
-    "Files/NeuLF.md",
     "Attachment/Pasted image 20240109223659.png",
     "Attachment/Pasted image 20240108172822.png",
     "Attachment/Pasted image 20240108172804.png",
@@ -238,7 +208,6 @@
     "Attachment/Pasted image 20240108172403.png",
     "Attachment/Pasted image 20240108172329.png",
     "Attachment/Pasted image 20240108172243.png",
-    "Attachment/Pasted image 20240108172153.png",
     "무제 파일.canvas",
     "I"
   ]

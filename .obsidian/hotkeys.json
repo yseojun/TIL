@@ -54,5 +54,37 @@
       ],
       "key": "T"
     }
+  ],
+  "templater-obsidian:_for obsidian/Template/개념 Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:_for obsidian/Template/코드 Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:_for_obsidian/Template/개념 Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:_for_obsidian/Template/코드 Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

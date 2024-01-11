@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "for_obsidian/Template",
+  "templates_folder": "_for_obsidian/Template",
   "templates_pairs": [
     [
       "",
@@ -22,8 +22,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "for_obsidian/Template/개념 Template.md",
-    "for_obsidian/Template/코드 Template.md"
+    "_for_obsidian/Template/개념 Template.md",
+    "_for_obsidian/Template/코드 Template.md"
   ],
   "startup_templates": [
     ""
