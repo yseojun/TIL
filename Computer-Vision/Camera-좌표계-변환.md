@@ -14,7 +14,7 @@ $$\begin{bmatrix}x'\\y'\\z'\end{bmatrix}=\begin{bmatrix}f&0&0&0\\0&f&0&0\\0&0&1&
 좌표계의 원점을 다른 좌표계의 원점으로 이동하는 값을 C, 
 좌표계를 다른 좌표계와 동일하게 회전하는 값을 R이라고 할 때 식은
 $$P_c=R(P_w-C)$$
-$$\begin{bmatrix}X\\Y\\Z\\1\end{bmatrix}=\begin{bmatrix}r_{11}&r_{12}&r_{13}&0\\r_{21}&r_{22}&r_{23}&0\\r_{31}&r_{32}&r_{33}&0\\0&0&0&1\end{bmatrix}\begin{bmatrix}1&0&0&-c_x\\0&1&0&-c_y\\0&0&1&-c_z\\0&0&0&1\end{bmatrix}\begin{bmatrix}x\\y\\z\\1\end{bmatrix}$$
+$$\begin{bmatrix}X\\Y\\Z\\1\end{bmatrix}=\begin{bmatrix}r_{11}&r_{12}&r_{13}&0\\r_{21}&r_{22}&r_{23}&0\\r_{31}&r_{32}&r_{33}&0\\0&0&0&1\end{bmatrix}\begin{bmatrix}1&0&0&-c_x\\0&1&0&-c_y\\0&0&1&c_z\\0&0&0&1\end{bmatrix}\begin{bmatrix}x\\y\\z\\1\end{bmatrix}$$
 로 표현할 수 있다
 - Stereo Camera
 	Stereo Camera의 방향 값은 동일하며, 왼쪽 카메라와 오른쪽 카메라의 거리 차이가 X좌표에서 난다고 할 때 식은
