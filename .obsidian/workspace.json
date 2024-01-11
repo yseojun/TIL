@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "Computer Vision/NeRF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "Computer Vision/NeRF.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "Computer Vision/NeRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "Computer Vision/NeRF.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "543bf9d82681e664",
   "lastOpenFiles": [
-    "Computer Vision/NeRF.md",
     "README.md.md",
+    "README.md",
+    "Computer Vision/NeRF.md",
     "Computer Vision/Novel View Synthesis.md",
     "Computer Vision/행렬 변환.md",
     "Computer Vision/<NeRF> 개념.md",
@@ -193,7 +194,6 @@
     "Files/무제 파일.md",
     "Conda",
     "Archive",
-    "무제 폴더/무제 파일.md",
     "Computer Vision",
     "_for_obsidian/Template",
     "_for_obsidian/Attachment",
