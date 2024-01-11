@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Vision/NeRF.md",
+                "file": "Computer-Vision/Camera-좌표계-변환.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Vision/NeRF.md",
+                "file": "Computer-Vision/Camera-좌표계-변환.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Vision/NeRF.md",
+                "file": "Computer-Vision/Camera-좌표계-변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Vision/NeRF.md"
+                "file": "Computer-Vision/Camera-좌표계-변환.md"
               }
             }
           }
@@ -163,10 +163,10 @@
   },
   "active": "543bf9d82681e664",
   "lastOpenFiles": [
+    "Computer-Vision/NeRF.md",
     "Computer-Vision/Computer-Vision.md",
     "README.md",
     "Archive/Markdown-수식-문법.md",
-    "Computer-Vision/NeRF.md",
     "Computer-Vision/행렬-변환.md",
     "Computer-Vision/Novel-View-Synthesis.md",
     "Computer-Vision/Extrinsic-Parameter.md",
