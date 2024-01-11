@@ -1,7 +1,7 @@
 ### input
 - 100개의 이미지
 - 100개의 transpose값
-	pose는 4x4 [[Extrinsic Parameter]], 각각의 이미지를 3d상의 위치로 변환시켜주는 행렬
+	pose는 4x4 [[Extrinsic-Parameter]], 각각의 이미지를 3d상의 위치로 변환시켜주는 행렬
 
 ### Train
 한 iteration 마다 하나의 이미지를 random sampling 하여 모델에 집어 넣음

@@ -17,12 +17,12 @@
 ### Computer Vision
 #### Research
 - [[NeRF]] : [link](Computer-Vision/NeRF.md)
-	- [[<NeRF> 개념]] : [link](Computer-Vision/<NeRF>-개념.md)
+	- [[<NeRF>개념]] : [link](Computer-Vision/<NeRF>개념.md)
 - [[NeuLF]]
 - [[PlenOctree]]
 #### Notion
-- [[Camera 좌표계 변환]] : [link](Computer_Vision/Camera-좌표계-변환.md)
-- [[행렬 변환]] : [link](Computer-Vision/행렬-변환.md)
+- [[Camera-좌표계-변환]] : [link](Computer-Vision/Camera-좌표계-변환.md)
+- [[행렬-변환]] : [link](Computer-Vision/행렬-변환.md)
 - 
 
 ---

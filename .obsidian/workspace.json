@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Vision/NeRF.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision/NeRF.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision/NeRF.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Vision/NeRF.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,18 +161,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "543bf9d82681e664",
+  "active": "007524222dddb797",
   "lastOpenFiles": [
-    "README.md.md",
+    "Computer-Vision/NeRF.md",
     "README.md",
-    "Computer Vision/NeRF.md",
-    "Computer Vision/Novel View Synthesis.md",
-    "Computer Vision/행렬 변환.md",
-    "Computer Vision/<NeRF> 개념.md",
+    "Computer-Vision/행렬-변환.md",
+    "Computer-Vision/Novel-View-Synthesis.md",
+    "Computer-Vision/Extrinsic-Parameter.md",
+    "Computer-Vision/Computer-Vision.md",
+    "Computer-Vision/Camera-좌표계-변환.md",
+    "Computer-Vision/<NeRF>개념.md",
+    "README.md.md",
     "Archive/Markdown 수식 문법.md",
-    "Computer Vision/Camera 좌표계 변환.md",
-    "Computer Vision/Computer Vision.md",
-    "Computer Vision/Extrinsic Parameter.md",
     "Now.md",
     "무제 폴더",
     "Archive/ffmpeg.md",
@@ -194,7 +194,7 @@
     "Files/무제 파일.md",
     "Conda",
     "Archive",
-    "Computer Vision",
+    "Computer-Vision",
     "_for_obsidian/Template",
     "_for_obsidian/Attachment",
     "_for_obsidian",
