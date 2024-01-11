@@ -32,5 +32,5 @@
 ---
 ### 카테고리 미분류 Archive
 - [[Conda]] : [link](Archive/Conda.md)
-- [[Markdown 수식 문법]] : [link](Archive/Markdown-수식-문법.md)
+- [[Markdown-수식-문법]] : [link](Archive/Markdown-수식-문법.md)
 - [[ffmpeg]] : [link](Archive/ffmpeg.md)
