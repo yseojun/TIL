@@ -5,7 +5,7 @@
 
 차근차근 하나씩ㄱㄱ
 ##### README 형식
-[[README.md|for Obsidian link]] : [for Github link]
+[[README|for Obsidian link]] : [for Github link]
 
 ---
 # Categories
@@ -19,7 +19,7 @@
 - [[NeRF]] : [link](Computer-Vision/NeRF.md)
 	- [[<NeRF>개념]] : [link](Computer-Vision/<NeRF>개념.md)
 - [[NeuLF]]
-- [[PlenOctree]]
+- [[PlenOctree]] : [link](Computer-Vision/PlenOctree.md)
 #### Notion
 - [[Camera-좌표계-변환]] : [link](Computer-Vision/Camera-좌표계-변환.md)
 - [[행렬-변환]] : [link](Computer-Vision/행렬-변환.md)
@@ -34,3 +34,5 @@
 - [[Conda]] : [link](Archive/Conda.md)
 - [[Markdown-수식-문법]] : [link](Archive/Markdown-수식-문법.md)
 - [[ffmpeg]] : [link](Archive/ffmpeg.md)
+- [[kqueue]] : [link](Archive/kqueue.md)
+- 

@@ -13,7 +13,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer-Vision/Camera-좌표계-변환.md",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fc86a340ba9b2ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f6102a50b5dcf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21e018500d414d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer-Vision/PlenOctree.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78729a9d24d1d8c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer-Vision/Camera-좌표계-변환.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer-Vision/Camera-좌표계-변환.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer-Vision/Camera-좌표계-변환.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,20 +214,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "543bf9d82681e664",
+  "active": "78729a9d24d1d8c2",
   "lastOpenFiles": [
+    "AI/MLP.md",
+    "Computer-Vision/PlenOctree.md",
+    "AI",
     "Computer-Vision/NeRF.md",
-    "Computer-Vision/Computer-Vision.md",
     "README.md",
+    "Archive/kqueue.md",
+    "Archive/Socket.md",
+    "Computer-Vision/Camera-좌표계-변환.md",
+    "Computer-Vision/Computer-Vision.md",
     "Archive/Markdown-수식-문법.md",
     "Computer-Vision/행렬-변환.md",
     "Computer-Vision/Novel-View-Synthesis.md",
     "Computer-Vision/Extrinsic-Parameter.md",
-    "Computer-Vision/Camera-좌표계-변환.md",
     "Computer-Vision/<NeRF>개념.md",
     "README.md.md",
     "Now.md",
-    "무제 폴더",
     "Archive/ffmpeg.md",
     "_for_obsidian/Template/코드 Template.md",
     "_for_obsidian/Attachment/행렬 변환.png",
@@ -188,10 +245,6 @@
     "Archive/README.md.md",
     "_for_obsidian/Template/개념 Template.md",
     "Conda/pip로 requirements.txt 설치하기.md",
-    "Files/Cona.md",
-    "Conda/pip로-requirements.txt-설치하기.md",
-    "Conda/pip로.md",
-    "Files/무제 파일.md",
     "Conda",
     "Archive",
     "Computer-Vision",
