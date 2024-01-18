@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "694cb5443a7c47fd",
+        "id": "20273c74e39744db",
         "type": "tabs",
         "children": [
           {
-            "id": "543bf9d82681e664",
+            "id": "62181025477b7922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer-Vision/<PlenOctree> 구조파악.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,33 +21,7 @@
             }
           },
           {
-            "id": "3fc86a340ba9b2ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94f6102a50b5dcf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21e018500d414d22",
+            "id": "61069181c1341992",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,25 +34,12 @@
             }
           },
           {
-            "id": "78729a9d24d1d8c2",
+            "id": "ba8dbfdb4c4365ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1575b2d575f96f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Markdown-수식-문법.md",
+                "file": "Computer-Vision/<PlenOctree> 번역.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +47,26 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "df981f17cd9cc950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5582f826f3d0575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer-Vision/<NeRF>개념.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer-Vision/<PlenOctree> 번역.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computer-Vision/<PlenOctree> 번역.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computer-Vision/<PlenOctree> 번역.md"
               }
             }
           }
@@ -206,52 +186,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "templates:템플릿 삽입": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "78729a9d24d1d8c2",
+  "active": "ba8dbfdb4c4365ae",
   "lastOpenFiles": [
-    "AI/MLP.md",
     "Computer-Vision/PlenOctree.md",
-    "AI",
-    "Computer-Vision/NeRF.md",
     "README.md",
-    "Archive/kqueue.md",
-    "Archive/Socket.md",
+    "Computer-Vision/<PlenOctree> 번역.md",
+    "Computer-Vision/<PlenOctree> 구조파악.md",
+    "Computer-Vision/<PlenOctree> 개념.md",
+    "Archive/Linux-memory-관리.md",
+    "Archive/Conda.md",
+    "Linux",
+    "모델링.md",
+    "24년 1월 18일 미팅.md",
+    "캡스톤 메모.md",
     "Computer-Vision/Camera-좌표계-변환.md",
-    "Computer-Vision/Computer-Vision.md",
+    "Computer-Vision/<NeRF>개념.md",
+    "Computer-Vision/NeRF.md",
+    "Swift",
+    "Archive/kqueue.md",
+    "AI/MLP.md",
+    "AI",
+    "_for_obsidian/Template/개념 Template.md",
     "Archive/Markdown-수식-문법.md",
+    "Computer-Vision/Computer-Vision.md",
     "Computer-Vision/행렬-변환.md",
     "Computer-Vision/Novel-View-Synthesis.md",
     "Computer-Vision/Extrinsic-Parameter.md",
-    "Computer-Vision/<NeRF>개념.md",
     "README.md.md",
     "Now.md",
+    "무제 폴더",
     "Archive/ffmpeg.md",
     "_for_obsidian/Template/코드 Template.md",
     "_for_obsidian/Attachment/행렬 변환.png",
     "A.md",
-    "Home.md",
-    "Computer.md",
-    "Archive/Conda.md",
     "Archive/Conda-기본-명령어",
-    "Archive/Conda 기본 명령어.md",
-    "Archive/Conda-기본-명령어.md",
-    "Archive/README.md.md",
-    "_for_obsidian/Template/개념 Template.md",
-    "Conda/pip로 requirements.txt 설치하기.md",
     "Conda",
     "Archive",
     "Computer-Vision",
     "_for_obsidian/Template",
     "_for_obsidian/Attachment",
-    "_for_obsidian",
-    "NeuLF.pdf",
     "Attachment/Pasted image 20240109223659.png",
     "Attachment/Pasted image 20240108172822.png",
     "Attachment/Pasted image 20240108172804.png",
@@ -261,7 +242,6 @@
     "Attachment/Pasted image 20240108172403.png",
     "Attachment/Pasted image 20240108172329.png",
     "Attachment/Pasted image 20240108172243.png",
-    "무제 파일.canvas",
-    "I"
+    "무제 파일.canvas"
   ]
 }

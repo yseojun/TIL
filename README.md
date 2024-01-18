@@ -35,4 +35,4 @@
 - [[Markdown-수식-문법]] : [link](Archive/Markdown-수식-문법.md)
 - [[ffmpeg]] : [link](Archive/ffmpeg.md)
 - [[kqueue]] : [link](Archive/kqueue.md)
-- 
+- [[Linux-memory-관리]] : [link](Archive/Linux-memory-관리.md)

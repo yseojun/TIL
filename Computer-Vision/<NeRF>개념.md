@@ -51,7 +51,7 @@ $$\gamma(p) = \big(sin(2^0\pi p),cos(2^0\pi p),\cdots,sin(2^{L-1}\pi p),cos(2^{L
 ### Hierarchical Volume Sampling
 $$\hat{C}_c(r)=\sum_{i=1}^{N_c}w_ic_i, \ w_i=T_i\big(1-exp(-\sigma_i\delta_i)\big)$$
 Coarse Model에서 구한 weight 값 (density X Transmittance)을 nomalize하여 piecewise-constant PDF(Probability Density Function) 을 구하고, 이 ray 내의 distribution으로부터 point들을 다시 sampling
-Density가 높은 값들을 위주로 다시 sampling하여 volume rendering을 시킴
+Density가 높은 값들을 위주로 다시 sampling 하여 volume rendering을 시킴
 $$L=\sum_{r\in R}\bigg[\parallel \hat{C_c}(r)-C(r) \parallel^2_2 \bigg] + \bigg[\parallel \hat{C_f}(r)-C(r) \parallel^2_2 \bigg]$$
 Coarse model과 실제 값과의 loss, Fine model과 실제 값과의 loss를 각각 구하고 더해서 전체 loss를 정함
 
