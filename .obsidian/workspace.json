@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Linux-memory-관리.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,39 +48,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "df981f17cd9cc950",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5582f826f3d0575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/kqueue.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "694adcd7d7fce104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python-Module/Flask.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python-Module/Flask.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python-Module/Flask.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python-Module/Flask.md"
+                "file": "README.md"
               }
             }
           }
@@ -208,17 +175,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "007524222dddb797",
+  "active": "ba8dbfdb4c4365ae",
   "lastOpenFiles": [
-    "Archive/kqueue.md",
+    "Archive/Linux-memory-관리.md",
     "Python-Module/Flask.md",
+    "Archive/kqueue.md",
+    "README.md",
     "Computer-Vision/<NeRF>개념.md",
     "Python-Module",
-    "Archive/Linux-memory-관리.md",
     "Archive/Conda.md",
     "Computer-Vision/<PlenOctree> 번역.md",
     "Computer-Vision/PlenOctree.md",
-    "README.md",
     "Computer-Vision/<PlenOctree> 구조파악.md",
     "Computer-Vision/<PlenOctree> 개념.md",
     "Linux",

@@ -26,8 +26,8 @@
 - 
 
 ---
-### Web
-- 
+### Python Module
+- [[Flask]] : [link](Python-module/Flask.md)
 
 ---
 ### 카테고리 미분류 Archive
