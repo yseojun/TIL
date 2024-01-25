@@ -23,11 +23,10 @@
 #### Notion
 - [[Camera-좌표계-변환]] : [link](Computer-Vision/Camera-좌표계-변환.md)
 - [[행렬-변환]] : [link](Computer-Vision/행렬-변환.md)
-- 
 
 ---
 ### Python Module
-- [[Flask]] : [link](Python-module/Flask.md)
+- [[Flask]] : [link](Python-Module/Flask.md)
 
 ---
 ### 카테고리 미분류 Archive
